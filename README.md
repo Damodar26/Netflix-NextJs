@@ -1,2 +1,2 @@
 # Netflix-clone
-A NETFLIX IDENTICAL STREAMING WEBSTE 
+A Netflix identical streaming website.
