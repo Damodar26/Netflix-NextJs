@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/edit-profile/[id]/page": "app/edit-profile/[id]/page.js",
+  "/get-started/page": "app/get-started/page.js",
+  "/manage-profiles/page": "app/manage-profiles/page.js",
+  "/login/page": "app/login/page.js",
+  "/movies/page": "app/movies/page.js",
+  "/add-profile/page": "app/add-profile/page.js",
+  "/home/page": "app/home/page.js",
+  "/new-and-popular/page": "app/new-and-popular/page.js",
+  "/profiles/page": "app/profiles/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/search/page": "app/search/page.js",
+  "/page": "app/page.js",
+  "/tv-shows/page": "app/tv-shows/page.js",
+  "/signup/page": "app/signup/page.js"
+}
